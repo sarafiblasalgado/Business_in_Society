@@ -29,12 +29,3 @@ Outputs (written to the current folder)
 Notes & assumptions
 - The parser looks for explicit percentage shares (e.g. `26% Recycled polyester` or `Polyester 88%`). If a product lacks explicit shares it is left as NaN (count of skipped rows printed by the script).\
 - CO₂ factors live in `compute_co2.py` in the `CO2_FACTORS` dictionary — update those values if you have literature-sourced numbers.
-
-Next steps you might want me to do
-- Update CO₂ factors to a published LCA table you provide.\
-- Add heuristics to infer material shares when percentages are missing.\
-- Produce a PDF/slide deck summarising the top offenders and dominant materials (I can generate this from the notebook).
-
-If you want one of the next steps implemented, tell me which and I will proceed.
-
-
