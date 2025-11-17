@@ -1,4 +1,4 @@
-# CO₂-per-product analysis (improved)
+# CO₂-per-product analysis
 
 This repository provides a small pipeline to estimate per-product CO₂ (kg CO₂e/kg) from H&M product composition text. The method parses percentage shares where they are present, applies fiber/material CO₂ factors, and aggregates results by category.
 
