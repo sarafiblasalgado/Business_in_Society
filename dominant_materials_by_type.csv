@@ -1,0 +1,938 @@
+product_type,material,avg_pct
+"Ladies_shoes_loafers","polyurethane",32.46
+"Ladies_shoes_loafers","thermoplastic rubber",28.68
+"Ladies_shoes_loafers","polyester",20.06
+"Ladies_shorts_highwaisted","cotton",30.64
+"Ladies_shorts_highwaisted","polyester",22.96
+"Ladies_shorts_highwaisted","linen",11.24
+"Ladies_skirts_a-line","polyester",39.40
+"Ladies_skirts_a-line","recycled polyester",20.83
+"Ladies_skirts_a-line","cotton",19.34
+"Ladies_skirts_denim","cotton",67.02
+"Ladies_skirts_denim","polyester",14.14
+"Ladies_skirts_denim","recycled cotton",11.08
+"Ladies_skirts_highwaisted","polyester",33.01
+"Ladies_skirts_highwaisted","recycled polyester",18.19
+"Ladies_skirts_highwaisted","polyamide",7.86
+"MEN_TSHIRTSTANKS_POLO","cotton",53.05
+"MEN_TSHIRTSTANKS_POLO","polyester",10.32
+"MEN_TSHIRTSTANKS_POLO","recycled polyester",7.47
+"beauty_haircare_accessories","silk",100.00
+"beauty_makeup_eyes_eyeliner","polypropylene",0.40
+"beauty_makeup_makeupbrusherstools_makeupbrushes","polypropylene",18.94
+"beauty_makeup_makeupbrusherstools_makeupbrushes","polyurethane",3.59
+"beauty_makeup_makeupbrusherstools_makeuptools","polyester",37.50
+"beauty_makeup_makeupbrusherstools_makeuptools","polypropylene",7.50
+"beauty_makeup_makeupbrusherstools_spongesapplicators","polyurethane",100.00
+"beauty_makeupbagscases","polyester",46.79
+"beauty_makeupbagscases","thermoplastic polyurethane",25.50
+"beauty_makeupbagscases","recycled polyester",16.74
+"beauty_nails_fakenailsaccessories","ethylene vinyl acetate",6.96
+"beauty_nails_fakenailsaccessories","acrylic",3.38
+"beauty_nails_fakenailsaccessories","polypropylene",0.21
+"beauty_nails_nailcare","ethylene vinyl acetate",15.00
+"beauty_nails_nailcare","polypropylene",7.50
+"home_bathshower_accessories_bathroomaccessories","rubber",15.00
+"home_bedlinen_duvetscoversets","cotton",100.00
+"home_homewear","cotton",78.95
+"home_homewear","recycled polyester",10.53
+"home_homewear","polyester",7.52
+"home_outdoor_beachtowelsandbags","cotton",100.00
+"kids_boys_clothing_takecare","recycled polyester",20.00
+"kids_boys_clothing_takecare","polyester",20.00
+"kids_boys_clothing_takecare","polypropylene",16.00
+"ladies_accessories","polyester",51.52
+"ladies_accessories","recycled polyester",18.41
+"ladies_accessories","ethylene vinyl acetate",12.84
+"ladies_accessories_bags","polyester",67.21
+"ladies_accessories_bags","recycled polyester",16.61
+"ladies_accessories_bags","polyurethane",16.18
+"ladies_accessories_bags_backpack","polyester",84.75
+"ladies_accessories_bags_backpack","recycled polyester",15.25
+"ladies_accessories_bags_beachbags","polyester",50.00
+"ladies_accessories_bags_crossbodybags","polyester",61.78
+"ladies_accessories_bags_crossbodybags","polyurethane",24.15
+"ladies_accessories_bags_crossbodybags","recycled polyester",9.25
+"ladies_accessories_bags_handbags","polyester",56.65
+"ladies_accessories_bags_handbags","polyurethane",28.90
+"ladies_accessories_bags_handbags","recycled polyester",13.29
+"ladies_accessories_bags_phonebags","leather",50.00
+"ladies_accessories_bags_phonebags","polyester",29.17
+"ladies_accessories_bags_phonebags","polyurethane",14.58
+"ladies_accessories_bags_shoppertotes","polyester",56.80
+"ladies_accessories_bags_shoppertotes","polyurethane",24.72
+"ladies_accessories_bags_shoppertotes","thermoplastic polyurethane",5.56
+"ladies_accessories_bags_shoulderbags","polyester",62.76
+"ladies_accessories_bags_shoulderbags","polyurethane",22.76
+"ladies_accessories_bags_shoulderbags","cotton",7.26
+"ladies_accessories_belts","polyester",50.00
+"ladies_accessories_belts","polyurethane",50.00
+"ladies_accessories_gloves","acrylic",42.91
+"ladies_accessories_gloves","polyester",42.13
+"ladies_accessories_gloves","recycled polyester",6.58
+"ladies_accessories_hairaccessories","polyester",33.91
+"ladies_accessories_hairaccessories","recycled polyester",18.66
+"ladies_accessories_hairaccessories","cotton",7.19
+"ladies_accessories_hats","polyester",81.04
+"ladies_accessories_hats","acrylic",7.62
+"ladies_accessories_hats","recycled polyester",5.68
+"ladies_accessories_hats_beanies","polyester",37.37
+"ladies_accessories_hats_beanies","recycled polyester",19.96
+"ladies_accessories_hats_beanies","acrylic",13.55
+"ladies_accessories_hats_buckethats","cotton",80.00
+"ladies_accessories_hats_buckethats","polyester",14.67
+"ladies_accessories_hats_buckethats","recycled polyester",3.33
+"ladies_accessories_hats_caps","cotton",59.62
+"ladies_accessories_hats_caps","polyester",21.29
+"ladies_accessories_hats_caps","recycled polyester",8.09
+"ladies_accessories_hats_hats","wool",50.00
+"ladies_accessories_hats_hats","polypropylene",50.00
+"ladies_accessories_jewellery","polyester",82.05
+"ladies_accessories_jewellery","polyurethane",16.03
+"ladies_accessories_jewellery","recycled polyester",1.92
+"ladies_accessories_jewellery_necklaces","polyester",4.93
+"ladies_accessories_jewellery_necklaces","recycled polyester",4.43
+"ladies_accessories_sarongsponchos","recycled polyester",50.00
+"ladies_accessories_sarongsponchos","polyester",50.00
+"ladies_accessories_scarves","polyester",64.31
+"ladies_accessories_scarves","recycled polyester",14.37
+"ladies_accessories_scarves","acrylic",12.65
+"ladies_basics","cotton",48.02
+"ladies_basics","recycled polyester",21.22
+"ladies_basics","recycled cotton",16.97
+"ladies_basics_cardigansjumpers","recycled polyester",25.66
+"ladies_basics_cardigansjumpers","polyester",25.66
+"ladies_basics_cardigansjumpers","acrylic",19.82
+"ladies_basics_dressesskirts","cotton",43.66
+"ladies_basics_dressesskirts","polyester",28.21
+"ladies_basics_dressesskirts","polyamide",9.20
+"ladies_basics_lingerie","polyamide",58.93
+"ladies_basics_lingerie","recycled polyamide",17.26
+"ladies_basics_lingerie","elastane",9.82
+"ladies_basics_tops","cotton",43.43
+"ladies_basics_tops","polyamide",39.43
+"ladies_basics_tops","recycled cotton",11.43
+"ladies_basics_tops_longsleeve","cotton",51.68
+"ladies_basics_tops_longsleeve","polyester",20.50
+"ladies_basics_tops_longsleeve","recycled polyester",10.35
+"ladies_basics_tops_shortsleeve","cotton",73.44
+"ladies_basics_tops_shortsleeve","polyester",6.77
+"ladies_basics_tops_shortsleeve","recycled cotton",6.16
+"ladies_basics_tops_vests","cotton",59.56
+"ladies_basics_tops_vests","polyamide",13.42
+"ladies_basics_tops_vests","recycled polyester",6.40
+"ladies_basics_trousersleggings","cotton",51.87
+"ladies_basics_trousersleggings","polyester",30.57
+"ladies_basics_trousersleggings","recycled polyester",7.87
+"ladies_beauty_hair","recycled polyester",46.09
+"ladies_beauty_hair","polyester",46.09
+"ladies_beauty_hair","polyamide",7.82
+"ladies_beauty_makeupbagstravel","polyester",66.67
+"ladies_beauty_makeupbagstravel","recycled polyester",33.33
+"ladies_blazers","polyester",55.80
+"ladies_blazers","recycled polyester",22.39
+"ladies_blazers","recycled polyester from textiles",5.52
+"ladies_blazerswaistcoats_doublebreasted","polyester",59.86
+"ladies_blazerswaistcoats_doublebreasted","recycled polyester",22.82
+"ladies_blazerswaistcoats_doublebreasted","recycled polyester from textiles",4.26
+"ladies_blazerswaistcoats_fitted","polyester",57.97
+"ladies_blazerswaistcoats_fitted","recycled polyester",27.27
+"ladies_blazerswaistcoats_fitted","recycled polyester from textiles",7.42
+"ladies_blazerswaistcoats_oversized","polyester",52.73
+"ladies_blazerswaistcoats_oversized","recycled polyester",18.64
+"ladies_blazerswaistcoats_oversized","cotton",7.22
+"ladies_cardigansjumpers_cardigans","polyester",34.67
+"ladies_cardigansjumpers_cardigans","recycled polyester",25.58
+"ladies_cardigansjumpers_cardigans","acrylic",16.91
+"ladies_cardigansjumpers_jumpers","polyester",31.06
+"ladies_cardigansjumpers_jumpers","acrylic",26.38
+"ladies_cardigansjumpers_jumpers","recycled polyester",13.69
+"ladies_divided","polyester",36.08
+"ladies_divided","cotton",33.55
+"ladies_divided","recycled polyester",13.46
+"ladies_divided_dresses","polyester",32.68
+"ladies_divided_dresses","polyamide",31.05
+"ladies_divided_dresses","recycled polyamide",30.72
+"ladies_dresses_aline","polyester",44.86
+"ladies_dresses_aline","recycled polyester",19.60
+"ladies_dresses_aline","cotton",15.69
+"ladies_dresses_backless","polyester",35.37
+"ladies_dresses_backless","recycled polyester",26.59
+"ladies_dresses_backless","cotton",17.21
+"ladies_dresses_beachdresses","polyester",29.49
+"ladies_dresses_beachdresses","recycled polyester",16.42
+"ladies_dresses_beachdresses","polyamide",6.67
+"ladies_dresses_bodycon","polyester",35.00
+"ladies_dresses_bodycon","recycled polyester",27.03
+"ladies_dresses_bodycon","polyamide",11.48
+"ladies_dresses_denim","cotton",60.82
+"ladies_dresses_denim","lyocell",15.62
+"ladies_dresses_denim","recycled cotton",15.38
+"ladies_dresses_kaftan","cotton",42.86
+"ladies_dresses_kaftan","polyester",35.71
+"ladies_dresses_kaftan","recycled polyester",7.14
+"ladies_dresses_knitted","polyester",31.87
+"ladies_dresses_knitted","recycled polyester",24.71
+"ladies_dresses_knitted","acrylic",19.38
+"ladies_dresses_lace","cotton",69.25
+"ladies_dresses_lace","polyester",13.51
+"ladies_dresses_lace","recycled polyester",11.49
+"ladies_dresses_maxidresses","cotton",22.43
+"ladies_dresses_maxidresses","polyester",19.99
+"ladies_dresses_maxidresses","polyamide",8.83
+"ladies_dresses_mididresses","cotton",28.48
+"ladies_dresses_mididresses","polyester",25.55
+"ladies_dresses_mididresses","recycled polyester",13.49
+"ladies_dresses_oneshoulder","recycled polyester",48.98
+"ladies_dresses_oneshoulder","polyester",32.65
+"ladies_dresses_oneshoulder","elastane",2.04
+"ladies_dresses_party","polyester",54.72
+"ladies_dresses_party","recycled polyester",18.71
+"ladies_dresses_party","cotton",7.63
+"ladies_dresses_shirt","cotton",28.35
+"ladies_dresses_shirt","linen",12.50
+"ladies_dresses_shirt","recycled cotton",2.50
+"ladies_dresses_shortdresses","cotton",30.54
+"ladies_dresses_shortdresses","polyester",22.24
+"ladies_dresses_shortdresses","recycled polyester",11.11
+"ladies_hoodiesswetshirts_hoodies","cotton",44.16
+"ladies_hoodiesswetshirts_hoodies","polyester",30.52
+"ladies_hoodiesswetshirts_hoodies","recycled polyester",18.84
+"ladies_hoodiesswetshirts_sweatshirts","cotton",46.92
+"ladies_hoodiesswetshirts_sweatshirts","polyester",29.26
+"ladies_hoodiesswetshirts_sweatshirts","recycled polyester",17.90
+"ladies_jacketscoats_biker","polyester",55.25
+"ladies_jacketscoats_biker","polyurethane",20.68
+"ladies_jacketscoats_biker","recycled polyester",15.43
+"ladies_jacketscoats_bomber","polyester",62.52
+"ladies_jacketscoats_bomber","linen",8.50
+"ladies_jacketscoats_bomber","polyurethane",8.14
+"ladies_jacketscoats_coats","polyester",58.67
+"ladies_jacketscoats_coats","recycled polyester",23.28
+"ladies_jacketscoats_coats","cotton",8.78
+"ladies_jacketscoats_denim","cotton",67.26
+"ladies_jacketscoats_denim","polyester",20.82
+"ladies_jacketscoats_denim","recycled cotton",11.42
+"ladies_jacketscoats_jackets","polyester",57.78
+"ladies_jacketscoats_jackets","recycled polyester",22.54
+"ladies_jacketscoats_jackets","polyurethane",4.82
+"ladies_jacketscoats_parkas","polyester",40.83
+"ladies_jacketscoats_parkas","polyamide",30.23
+"ladies_jacketscoats_parkas","cotton",10.60
+"ladies_jacketscoats_vests","polyester",45.86
+"ladies_jacketscoats_vests","cotton",35.52
+"ladies_jacketscoats_vests","recycled polyester",10.85
+"ladies_jacketscoats_vests_puffer","polyester",64.91
+"ladies_jacketscoats_vests_puffer","polyamide",32.46
+"ladies_jacketscoats_vests_puffer","recycled polyester from textiles",2.63
+"ladies_jeans","cotton",76.83
+"ladies_jeans","recycled cotton",17.07
+"ladies_jeans","recycled polyester",1.63
+"ladies_jeans_bootcut","cotton",62.19
+"ladies_jeans_bootcut","polyester",23.14
+"ladies_jeans_bootcut","recycled cotton",9.30
+"ladies_jeans_curvy","cotton",59.12
+"ladies_jeans_curvy","polyester",27.13
+"ladies_jeans_curvy","recycled cotton",8.35
+"ladies_jeans_flare","cotton",49.79
+"ladies_jeans_flare","polyester",28.81
+"ladies_jeans_flare","recycled polyester",12.26
+"ladies_jeans_loose","cotton",60.75
+"ladies_jeans_loose","polyester",21.38
+"ladies_jeans_loose","recycled cotton",10.29
+"ladies_jeans_skinny","cotton",62.44
+"ladies_jeans_skinny","recycled cotton",15.44
+"ladies_jeans_skinny","polyester",14.32
+"ladies_jeans_straight","cotton",64.90
+"ladies_jeans_straight","polyester",16.66
+"ladies_jeans_straight","recycled cotton",11.32
+"ladies_jeans_wide","cotton",66.78
+"ladies_jeans_wide","polyester",19.95
+"ladies_jeans_wide","recycled cotton",10.61
+"ladies_jumpsuits_long","polyester",38.07
+"ladies_jumpsuits_long","polyamide",21.92
+"ladies_jumpsuits_long","recycled polyester",16.17
+"ladies_jumpsuits_short","polyester",31.33
+"ladies_jumpsuits_short","polyamide",15.00
+"ladies_jumpsuits_short","elastane",2.00
+"ladies_lingerie","polyamide",67.47
+"ladies_lingerie","elastane",19.33
+"ladies_lingerie","polyester",13.20
+"ladies_lingerie_accessories","polyamide",43.17
+"ladies_lingerie_accessories","polyester",28.55
+"ladies_lingerie_accessories","recycled polyester",6.40
+"ladies_lingerie_bodiescorsets","polyamide",52.73
+"ladies_lingerie_bodiescorsets","cotton",31.50
+"ladies_lingerie_bodiescorsets","polyester",8.16
+"ladies_lingerie_bras_balconette","polyamide",71.83
+"ladies_lingerie_bras_balconette","polyester",14.07
+"ladies_lingerie_bras_balconette","elastane",11.40
+"ladies_lingerie_bras_multipack","polyamide",40.72
+"ladies_lingerie_bras_multipack","cotton",22.54
+"ladies_lingerie_bras_multipack","polyester",12.91
+"ladies_lingerie_bras_nonpadded","polyamide",74.08
+"ladies_lingerie_bras_nonpadded","elastane",12.57
+"ladies_lingerie_bras_nonpadded","polyester",8.39
+"ladies_lingerie_bras_padded","polyamide",61.64
+"ladies_lingerie_bras_padded","polyester",21.68
+"ladies_lingerie_bras_padded","elastane",10.49
+"ladies_lingerie_bras_pushup","polyamide",88.00
+"ladies_lingerie_bras_pushup","elastane",12.00
+"ladies_lingerie_bras_softwireless","polyamide",81.46
+"ladies_lingerie_bras_softwireless","elastane",16.10
+"ladies_lingerie_bras_softwireless","organic cotton",2.44
+"ladies_lingerie_bras_stickon","polyester",41.66
+"ladies_lingerie_bras_stickon","polyamide",36.66
+"ladies_lingerie_bras_stickon","recycled polyester",14.48
+"ladies_lingerie_briefsknickers_bikinibriefs","cotton",43.56
+"ladies_lingerie_briefsknickers_bikinibriefs","polyamide",34.40
+"ladies_lingerie_briefsknickers_bikinibriefs","elastane",9.66
+"ladies_lingerie_briefsknickers_brazilian","polyamide",44.77
+"ladies_lingerie_briefsknickers_brazilian","cotton",31.24
+"ladies_lingerie_briefsknickers_brazilian","recycled polyamide",10.24
+"ladies_lingerie_briefsknickers_hipster","cotton",47.08
+"ladies_lingerie_briefsknickers_hipster","polyamide",27.51
+"ladies_lingerie_briefsknickers_hipster","recycled polyamide",8.83
+"ladies_lingerie_briefsknickers_multipack","cotton",54.99
+"ladies_lingerie_briefsknickers_multipack","polyamide",30.44
+"ladies_lingerie_briefsknickers_multipack","elastane",5.95
+"ladies_lingerie_briefsknickers_shortiehighwaist","polyamide",69.36
+"ladies_lingerie_briefsknickers_shortiehighwaist","cotton",18.92
+"ladies_lingerie_briefsknickers_shortiehighwaist","elastane",10.50
+"ladies_lingerie_briefsknickers_thong","cotton",47.84
+"ladies_lingerie_briefsknickers_thong","polyamide",37.04
+"ladies_lingerie_briefsknickers_thong","polyester",5.48
+"ladies_lingerie_shapewear","polyamide",85.50
+"ladies_lingerie_shapewear","elastane",14.50
+"ladies_lingerie_shapewear_bodysuits","cotton",50.00
+"ladies_lingerie_shapewear_bodysuits","polyamide",33.60
+"ladies_lingerie_shapewear_bodysuits","elastane",16.40
+"ladies_lingerie_shapewear_tights","polyamide",65.32
+"ladies_lingerie_shapewear_tights","elastane",16.19
+"ladies_lingerie_shapewear_tights","recycled polyester",6.92
+"ladies_maternity","cotton",48.00
+"ladies_maternity","elastane",5.00
+"ladies_maternity_bottoms","polyester",22.89
+"ladies_maternity_bottoms","recycled polyester",17.36
+"ladies_maternity_bottoms","cotton",16.51
+"ladies_maternity_cardigansjumpers","polyester",47.72
+"ladies_maternity_cardigansjumpers","acrylic",36.44
+"ladies_maternity_cardigansjumpers","recycled polyester",5.40
+"ladies_maternity_dresses","polyester",23.76
+"ladies_maternity_dresses","recycled polyester",19.30
+"ladies_maternity_dresses","cotton",7.69
+"ladies_maternity_jacketsblazers","polyester",56.04
+"ladies_maternity_jacketsblazers","recycled polyester",23.93
+"ladies_maternity_jacketsblazers","polyamide",12.83
+"ladies_maternity_jeans","cotton",83.23
+"ladies_maternity_jeans","recycled cotton",9.34
+"ladies_maternity_jeans","elastane",2.86
+"ladies_maternity_lingerietights","polyamide",46.54
+"ladies_maternity_lingerietights","cotton",35.80
+"ladies_maternity_lingerietights","elastane",7.65
+"ladies_maternity_nightwearloungewear","cotton",39.07
+"ladies_maternity_nightwearloungewear","polyester",30.43
+"ladies_maternity_nightwearloungewear","recycled polyester",21.43
+"ladies_maternity_nursing","cotton",36.50
+"ladies_maternity_nursing","polyester",32.12
+"ladies_maternity_nursing","recycled polyester from textiles",27.01
+"ladies_maternity_nursing_bra","polyester",28.42
+"ladies_maternity_nursing_bra","polyamide",24.80
+"ladies_maternity_nursing_bra","cotton",20.12
+"ladies_maternity_nursing_dresses","polyester",21.88
+"ladies_maternity_nursing_dresses","cotton",17.97
+"ladies_maternity_nursing_dresses","recycled polyester",5.19
+"ladies_maternity_nursing_tops","cotton",39.17
+"ladies_maternity_nursing_tops","polyester",19.79
+"ladies_maternity_nursing_tops","recycled polyester",7.72
+"ladies_maternity_shirtsblouses","cotton",9.86
+"ladies_maternity_shirtsblouses","recycled polyester",8.24
+"ladies_maternity_shirtsblouses","polyester",8.24
+"ladies_maternity_swimwear","polyester",38.10
+"ladies_maternity_swimwear","polyamide",34.63
+"ladies_maternity_swimwear","elastane",13.85
+"ladies_maternity_tops","cotton",42.68
+"ladies_maternity_tops","organic cotton",12.53
+"ladies_maternity_tops","polyester",8.53
+"ladies_nightwear_dressing_gowns","cotton",50.00
+"ladies_nightwear_dressing_gowns","recycled polyester",25.00
+"ladies_nightwear_dressing_gowns","polyester",25.00
+"ladies_nightwear_loungewear","polyester",26.32
+"ladies_nightwear_loungewear","recycled polyester",26.18
+"ladies_nightwear_loungewear","cotton",20.65
+"ladies_nightwear_nightslips","cotton",32.70
+"ladies_nightwear_nightslips","linen",25.00
+"ladies_nightwear_nightslips","recycled polyester",19.64
+"ladies_nightwear_pyjamas","cotton",41.03
+"ladies_nightwear_pyjamas","recycled polyester",19.41
+"ladies_nightwear_pyjamas","polyester",17.47
+"ladies_nightwear_slippers","polyester",71.22
+"ladies_nightwear_slippers","ethylene vinyl acetate",16.58
+"ladies_nightwear_slippers","thermoplastic rubber",7.16
+"ladies_plus_bottoms","cotton",83.26
+"ladies_plus_bottoms","recycled cotton",13.26
+"ladies_plus_bottoms","elastane",3.08
+"ladies_plus_lingerietights","acrylic",75.00
+"ladies_plus_lingerietights","polyamide",22.00
+"ladies_plus_lingerietights","elastane",3.00
+"ladies_premium_selection","linen",40.00
+"ladies_premium_selection","polyamide",20.61
+"ladies_premium_selection","silk",20.00
+"ladies_premium_selection_accessories","leather",30.26
+"ladies_premium_selection_accessories","silk",26.71
+"ladies_premium_selection_accessories","wool",15.38
+"ladies_premium_selection_bottoms","leather",25.00
+"ladies_premium_selection_bottoms","cotton",17.75
+"ladies_premium_selection_bottoms","wool",14.36
+"ladies_premium_selection_cardigansjumpers","wool",33.44
+"ladies_premium_selection_cardigansjumpers","polyamide",9.07
+"ladies_premium_selection_cardigansjumpers","elastane",1.24
+"ladies_premium_selection_dresses","wool",90.00
+"ladies_premium_selection_jacketscoats","polyester",36.04
+"ladies_premium_selection_jacketscoats","leather",16.67
+"ladies_premium_selection_jacketscoats","wool",12.58
+"ladies_premium_selection_shoes","leather",41.19
+"ladies_premium_selection_shoes","polyester",12.95
+"ladies_premium_selection_shoes","thermoplastic rubber",11.27
+"ladies_premium_selection_tops","cotton",41.67
+"ladies_premium_selection_tops","silk",14.13
+"ladies_premium_selection_tops","linen",13.33
+"ladies_shirtblouses_offshoulderblouses","cotton",25.00
+"ladies_shirtblouses_offshoulderblouses","polyamide",12.38
+"ladies_shirtblouses_offshoulderblouses","lyocell",10.62
+"ladies_shirtsblouses_blouses","cotton",34.17
+"ladies_shirtsblouses_blouses","polyester",26.20
+"ladies_shirtsblouses_blouses","recycled polyester",10.45
+"ladies_shirtsblouses_denimshirts","cotton",59.91
+"ladies_shirtsblouses_denimshirts","lyocell",21.93
+"ladies_shirtsblouses_denimshirts","recycled cotton",18.16
+"ladies_shirtsblouses_shirts","cotton",35.07
+"ladies_shirtsblouses_shirts","linen",19.58
+"ladies_shirtsblouses_shirts","polyester",14.37
+"ladies_shoes","polyurethane",86.67
+"ladies_shoes","thermoplastic polyurethane",13.33
+"ladies_shoes_ankle_boots","polyester",47.32
+"ladies_shoes_ankle_boots","thermoplastic rubber",20.02
+"ladies_shoes_ankle_boots","polyurethane",19.81
+"ladies_shoes_ballerinas_flats","polyester",37.72
+"ladies_shoes_ballerinas_flats","polyurethane",31.98
+"ladies_shoes_ballerinas_flats","thermoplastic polyurethane",11.74
+"ladies_shoes_heels","polyurethane",48.38
+"ladies_shoes_heels","polyester",29.62
+"ladies_shoes_heels","thermoplastic polyurethane",11.57
+"ladies_shoes_heels_pumps","polyurethane",61.17
+"ladies_shoes_heels_pumps","polyester",22.04
+"ladies_shoes_heels_pumps","thermoplastic polyurethane",11.90
+"ladies_shoes_mules","polyurethane",64.88
+"ladies_shoes_mules","thermoplastic polyurethane",9.93
+"ladies_shoes_mules","thermoplastic rubber",8.33
+"ladies_shoes_pumps_highheels","polyurethane",54.72
+"ladies_shoes_pumps_highheels","thermoplastic rubber",17.01
+"ladies_shoes_pumps_highheels","polyester",15.65
+"ladies_shoes_sandals","thermoplastic rubber",40.65
+"ladies_shoes_sandals","polyurethane",40.65
+"ladies_shoes_sandals","recycled thermoplastic rubber",18.70
+"ladies_shoes_sandals_espandrillos","polyurethane",36.31
+"ladies_shoes_sandals_espandrillos","thermoplastic rubber",18.87
+"ladies_shoes_sandals_espandrillos","polyester",11.60
+"ladies_shoes_sneakers","polyester",36.76
+"ladies_shoes_sneakers","cotton",17.02
+"ladies_shoes_sneakers","polyurethane",16.59
+"ladies_shorts","polyester",41.14
+"ladies_shorts","cotton",19.95
+"ladies_shorts","recycled polyester",15.94
+"ladies_shorts_jeans","cotton",59.55
+"ladies_shorts_jeans","polyester",23.02
+"ladies_shorts_jeans","recycled cotton",9.47
+"ladies_skirts_longskirts","polyester",42.33
+"ladies_skirts_longskirts","recycled polyester",18.86
+"ladies_skirts_longskirts","cotton",7.27
+"ladies_skirts_midiskirts","polyester",33.50
+"ladies_skirts_midiskirts","cotton",15.59
+"ladies_skirts_midiskirts","polyamide",13.67
+"ladies_skirts_pleated","recycled polyester",39.39
+"ladies_skirts_pleated","polyester",39.39
+"ladies_skirts_pleated","cotton",21.21
+"ladies_skirts_shortskirts","polyester",40.12
+"ladies_skirts_shortskirts","cotton",27.45
+"ladies_skirts_shortskirts","recycled polyester",20.22
+"ladies_sockstights_socks","cotton",50.57
+"ladies_sockstights_socks","recycled polyester",16.24
+"ladies_sockstights_socks","polyester",13.20
+"ladies_sockstights_socks_ankle","cotton",62.02
+"ladies_sockstights_socks_ankle","recycled polyester",18.03
+"ladies_sockstights_socks_ankle","polyester",12.02
+"ladies_sockstights_socks_kneehigh","acrylic",24.61
+"ladies_sockstights_socks_kneehigh","polyester",18.64
+"ladies_sockstights_socks_kneehigh","cotton",14.29
+"ladies_sockstights_tightleggings","polyamide",73.99
+"ladies_sockstights_tightleggings","acrylic",12.50
+"ladies_sockstights_tightleggings","elastane",9.61
+"ladies_sport_bottoms_shorts","polyester",34.43
+"ladies_sport_bottoms_shorts","recycled polyester",27.52
+"ladies_sport_bottoms_shorts","polyamide",24.82
+"ladies_sport_bottoms_trousers","polyester",38.37
+"ladies_sport_bottoms_trousers","cotton",20.11
+"ladies_sport_bottoms_trousers","recycled polyester",19.29
+"ladies_sport_sportaccessories","polypropylene",50.00
+"ladies_sport_sportaccessories","cotton",11.43
+"ladies_sport_sportaccessories","polyamide",10.51
+"ladies_sport_tops_longsleeve","recycled polyester",50.00
+"ladies_sport_tops_longsleeve","polyester",50.00
+"ladies_sport_tops_vest","recycled polyester",46.52
+"ladies_sport_tops_vest","polyester",46.52
+"ladies_sport_tops_vest","elastane",6.95
+"ladies_swimwear_beachwear","recycled polyester",33.33
+"ladies_swimwear_beachwear","polyester",33.33
+"ladies_swimwear_bikinisets_bottoms","polyester",41.21
+"ladies_swimwear_bikinisets_bottoms","polyamide",20.16
+"ladies_swimwear_bikinisets_bottoms","recycled polyamide",9.87
+"ladies_swimwear_bikinisets_tops","polyester",42.35
+"ladies_swimwear_bikinisets_tops","polyamide",20.37
+"ladies_swimwear_bikinisets_tops","recycled polyester",9.97
+"ladies_swimwear_swimsuits","polyester",42.57
+"ladies_swimwear_swimsuits","polyamide",26.27
+"ladies_swimwear_swimsuits","recycled polyester from textiles",12.41
+"ladies_tops","polyester",32.65
+"ladies_tops","recycled polyester",12.36
+"ladies_tops","polyamide",8.66
+"ladies_tops_bodys","polyester",49.02
+"ladies_tops_bodys","recycled polyester",31.73
+"ladies_tops_bodys","elastane",6.59
+"ladies_tops_corsetsbustier","cotton",83.33
+"ladies_tops_corsetsbustier","recycled cotton",16.67
+"ladies_tops_croppedtops","polyester",35.70
+"ladies_tops_croppedtops","cotton",26.41
+"ladies_tops_croppedtops","recycled polyester",17.95
+"ladies_tops_longsleeve","polyester",25.71
+"ladies_tops_longsleeve","recycled polyester",19.40
+"ladies_tops_longsleeve","cotton",15.49
+"ladies_tops_lowcut","polyester",27.68
+"ladies_tops_lowcut","recycled polyester",22.42
+"ladies_tops_lowcut","cotton",13.39
+"ladies_tops_offshouldertops","polyamide",16.71
+"ladies_tops_offshouldertops","recycled polyester",6.69
+"ladies_tops_offshouldertops","polyester",6.69
+"ladies_tops_printed_tshirts","cotton",84.86
+"ladies_tops_printed_tshirts","recycled cotton",14.47
+"ladies_tops_printed_tshirts","recycled polyester",0.40
+"ladies_tops_shortsleeve","cotton",30.32
+"ladies_tops_shortsleeve","polyester",19.07
+"ladies_tops_shortsleeve","recycled polyester",14.18
+"ladies_tops_vests","polyester",29.21
+"ladies_tops_vests","cotton",23.79
+"ladies_tops_vests","recycled polyester",20.17
+"ladies_trousers","polyester",24.62
+"ladies_trousers","cotton",17.69
+"ladies_trousers","recycled polyester",8.77
+"ladies_trousers_cargo","cotton",57.16
+"ladies_trousers_cargo","polyester",26.73
+"ladies_trousers_cargo","recycled polyester",6.27
+"ladies_trousers_chinosslacks","polyester",55.70
+"ladies_trousers_chinosslacks","recycled polyester",24.31
+"ladies_trousers_chinosslacks","cotton",10.62
+"ladies_trousers_culottes","polyester",47.17
+"ladies_trousers_culottes","polyamide",6.13
+"ladies_trousers_culottes","recycled polyester from textiles",2.83
+"ladies_trousers_dressed","polyester",53.99
+"ladies_trousers_dressed","recycled polyester",30.41
+"ladies_trousers_dressed","recycled polyester from textiles",4.23
+"ladies_trousers_flare","polyester",46.78
+"ladies_trousers_flare","cotton",15.36
+"ladies_trousers_flare","recycled polyester",10.10
+"ladies_trousers_highwaisted","polyester",43.64
+"ladies_trousers_highwaisted","recycled polyester",18.05
+"ladies_trousers_highwaisted","cotton",8.66
+"ladies_trousers_joggers","cotton",65.02
+"ladies_trousers_joggers","recycled polyester",10.38
+"ladies_trousers_joggers","linen",9.95
+"ladies_trousers_leggings","cotton",31.34
+"ladies_trousers_leggings","polyester",24.07
+"ladies_trousers_leggings","polyamide",11.47
+"ladies_trousers_linentrousers","cotton",44.13
+"ladies_trousers_linentrousers","linen",35.43
+"ladies_trousers_linentrousers","recycled cotton",7.94
+"ladies_trousers_puleather","polyurethane",56.66
+"ladies_trousers_puleather","polyester",33.41
+"ladies_trousers_puleather","cotton",5.05
+"ladies_trousers_wideleg","cotton",46.05
+"ladies_trousers_wideleg","polyester",18.83
+"ladies_trousers_wideleg","recycled polyester",11.00
+"men_blazerssuits_blazers","polyester",55.38
+"men_blazerssuits_blazers","recycled polyester",18.13
+"men_blazerssuits_blazers","wool",5.25
+"men_blazerssuits_trousers","polyester",51.14
+"men_blazerssuits_trousers","recycled polyester",21.76
+"men_blazerssuits_trousers","cotton",9.56
+"men_blazerssuits_waistcoats","polyester",57.74
+"men_blazerssuits_waistcoats","recycled polyester",31.46
+"men_blazerssuits_waistcoats","elastane",0.84
+"men_cardigansjumpers_cardigans","acrylic",24.24
+"men_cardigansjumpers_cardigans","wool",21.83
+"men_cardigansjumpers_cardigans","recycled polyester",16.17
+"men_cardigansjumpers_jumpers","cotton",22.86
+"men_cardigansjumpers_jumpers","wool",16.53
+"men_cardigansjumpers_jumpers","polyester",11.01
+"men_cardigansjumpers_turtleneck","cotton",55.25
+"men_cardigansjumpers_turtleneck","polyester",21.36
+"men_cardigansjumpers_turtleneck","recycled polyester",16.08
+"men_hoodiessweatshirts","cotton",100.00
+"men_hoodiessweatshirts_hoodies","cotton",54.16
+"men_hoodiessweatshirts_hoodies","polyester",24.95
+"men_hoodiessweatshirts_hoodies","recycled polyester",15.21
+"men_hoodiessweatshirts_sweatshirts","cotton",58.94
+"men_hoodiessweatshirts_sweatshirts","polyester",24.08
+"men_hoodiessweatshirts_sweatshirts","recycled polyester",12.55
+"men_jacketscoats_bomberjackets","polyester",58.06
+"men_jacketscoats_bomberjackets","recycled polyester",17.04
+"men_jacketscoats_bomberjackets","recycled polyester from textiles",9.39
+"men_jacketscoats_coats","polyester",46.19
+"men_jacketscoats_coats","recycled polyester",23.08
+"men_jacketscoats_coats","wool",14.79
+"men_jacketscoats_denimjackets","cotton",82.01
+"men_jacketscoats_denimjackets","recycled cotton",12.86
+"men_jacketscoats_denimjackets","polyester",4.90
+"men_jacketscoats_fleeceteddy","polyester",58.83
+"men_jacketscoats_fleeceteddy","recycled polyester",28.10
+"men_jacketscoats_fleeceteddy","cotton",9.10
+"men_jacketscoats_jackets","polyester",50.30
+"men_jacketscoats_jackets","recycled polyester",16.70
+"men_jacketscoats_jackets","cotton",10.79
+"men_jacketscoats_shirtjackets","polyester",32.94
+"men_jacketscoats_shirtjackets","recycled polyester",24.86
+"men_jacketscoats_shirtjackets","cotton",24.07
+"men_jeans_loose","cotton",64.03
+"men_jeans_loose","polyester",23.12
+"men_jeans_loose","recycled cotton",9.50
+"men_jeans_regular","cotton",64.70
+"men_jeans_regular","polyester",21.96
+"men_jeans_regular","recycled cotton",8.63
+"men_jeans_relaxed","cotton",80.25
+"men_jeans_relaxed","recycled cotton",13.56
+"men_jeans_relaxed","polyester",5.30
+"men_jeans_skinny","cotton",61.24
+"men_jeans_skinny","organic cotton",14.97
+"men_jeans_skinny","polyester",14.44
+"men_jeans_slim","cotton",64.16
+"men_jeans_slim","polyester",25.91
+"men_jeans_slim","recycled cotton",8.79
+"men_nightwearloungewear_bottoms","cotton",92.22
+"men_nightwearloungewear_bottoms","polyester",4.44
+"men_nightwearloungewear_bottoms","lyocell",2.78
+"men_nightwearloungewear_dressing_gowns_bathrobes","cotton",100.00
+"men_nightwearloungewear_pyjamas","cotton",80.52
+"men_nightwearloungewear_pyjamas","polyester",7.43
+"men_nightwearloungewear_pyjamas","recycled polyester",1.43
+"men_shirt_dressed_regularfit","cotton",24.54
+"men_shirt_dressed_regularfit","recycled polyester",22.77
+"men_shirt_dressed_regularfit","polyester",22.77
+"men_shirt_dressed_slimfit","cotton",63.27
+"men_shirt_dressed_slimfit","recycled polyester",13.79
+"men_shirt_dressed_slimfit","polyester",13.79
+"men_shirts_casual","cotton",52.99
+"men_shirts_casual","polyester",11.96
+"men_shirts_casual","recycled polyester",8.96
+"men_shirts_linenshirts","linen",100.00
+"men_shirts_longsleeved","cotton",74.71
+"men_shirts_longsleeved","recycled polyester",4.01
+"men_shirts_longsleeved","polyester",2.53
+"men_shirts_shortsleeved","cotton",85.71
+"men_shoes","polyester",37.19
+"men_shoes","cotton",11.86
+"men_shoes","ethylene vinyl acetate",11.23
+"men_shoes_boots","polyurethane",25.98
+"men_shoes_boots","cotton",17.37
+"men_shoes_boots","thermoplastic rubber",16.69
+"men_shoes_dressed","cotton",26.28
+"men_shoes_dressed","polyurethane",22.19
+"men_shoes_dressed","thermoplastic rubber",19.59
+"men_shoes_loafers","cotton",24.60
+"men_shoes_loafers","polyurethane",17.77
+"men_shoes_loafers","rubber",12.85
+"men_shoes_sandals_espandrillos","ethylene vinyl acetate",33.33
+"men_shoes_sandals_espandrillos","leather",33.33
+"men_shoes_slippers","polyester",43.86
+"men_shoes_slippers","ethylene vinyl acetate",14.32
+"men_shoes_slippers","thermoplastic rubber",9.79
+"men_shoes_sneakers","polyester",33.33
+"men_shoes_sneakers","polyurethane",19.54
+"men_shoes_sneakers","rubber",16.17
+"men_shoes_sneakers_hightop","polyester",32.53
+"men_shoes_sneakers_hightop","cotton",23.86
+"men_shoes_sneakers_hightop","rubber",15.20
+"men_shorts","polyester",37.95
+"men_shorts","linen",33.42
+"men_shorts","cotton",20.52
+"men_shorts_cargo","cotton",55.12
+"men_shorts_cargo","polyester",18.95
+"men_shorts_cargo","polyamide",16.00
+"men_shorts_casual","cotton",60.03
+"men_shorts_casual","polyester",24.43
+"men_shorts_casual","recycled polyester",10.13
+"men_shorts_chinos","cotton",90.83
+"men_shorts_chinos","recycled cotton",8.26
+"men_shorts_chinos","elastane",0.92
+"men_shorts_denim","cotton",59.92
+"men_shorts_denim","polyester",21.33
+"men_shorts_denim","organic cotton",8.73
+"men_socks","cotton",47.60
+"men_socks","polyamide",19.65
+"men_socks","acrylic",6.67
+"men_socks_ankle","cotton",59.68
+"men_socks_ankle","recycled polyester",19.35
+"men_socks_ankle","polyester",19.35
+"men_socks_multipacks","cotton",60.37
+"men_socks_multipacks","polyester",11.79
+"men_socks_multipacks","polyamide",11.51
+"men_sport_bottoms_shorts","polyester",40.28
+"men_sport_bottoms_shorts","polyamide",23.96
+"men_sport_bottoms_shorts","recycled polyamide",22.65
+"men_sport_bottoms_trousers","polyester",58.18
+"men_sport_bottoms_trousers","recycled polyester",21.50
+"men_sport_bottoms_trousers","polyamide",10.37
+"men_sport_tops","cotton",42.03
+"men_sport_tops","recycled polyester",27.54
+"men_sport_tops","polyester",27.54
+"men_swimwear_swimshorts","polyester",64.70
+"men_swimwear_swimshorts","recycled polyester from textiles",20.79
+"men_swimwear_swimshorts","recycled polyester",10.31
+"men_trousers_cargo","cotton",62.40
+"men_trousers_cargo","polyester",18.74
+"men_trousers_cargo","polyamide",5.62
+"men_trousers_casual","cotton",45.36
+"men_trousers_casual","polyester",27.21
+"men_trousers_casual","recycled polyester",10.79
+"men_trousers_chinos_regular_all","cotton",99.00
+"men_trousers_chinos_regular_all","elastane",1.00
+"men_trousers_chinos_slim_all","cotton",91.56
+"men_trousers_chinos_slim_all","recycled cotton",3.92
+"men_trousers_chinos_slim_all","elastane",0.98
+"men_trousers_dressed","polyester",46.51
+"men_trousers_dressed","cotton",23.61
+"men_trousers_dressed","recycled polyester",15.45
+"men_trousers_trousers_regular_all","cotton",66.99
+"men_trousers_trousers_regular_all","polyester",15.72
+"men_trousers_trousers_regular_all","recycled polyester",12.53
+"men_tshirtstanks","cotton",41.14
+"men_tshirtstanks","polyester",29.79
+"men_tshirtstanks","recycled polyester",29.07
+"men_tshirtstanks_longsleeve","cotton",62.76
+"men_tshirtstanks_longsleeve","recycled polyester",16.16
+"men_tshirtstanks_longsleeve","polyester",15.62
+"men_tshirtstanks_multipacks","cotton",94.06
+"men_tshirtstanks_multipacks","elastane",2.68
+"men_tshirtstanks_multipacks","recycled polyester",1.25
+"men_tshirtstanks_printed","cotton",99.52
+"men_tshirtstanks_printed","recycled cotton",0.42
+"men_tshirtstanks_printed","elastane",0.06
+"men_tshirtstanks_shortsleeve","cotton",69.13
+"men_tshirtstanks_shortsleeve","polyester",11.16
+"men_tshirtstanks_shortsleeve","recycled polyester",8.50
+"men_tshirtstanks_tanks","cotton",55.32
+"men_tshirtstanks_tanks","polyester",20.43
+"men_tshirtstanks_tanks","recycled polyester",13.20
+"men_underwear_boxers","cotton",91.35
+"men_underwear_boxers","elastane",5.96
+"men_underwear_boxers","polyester",2.69
+"men_underwear_trunks","cotton",87.36
+"men_underwear_trunks","elastane",5.90
+"men_underwear_trunks","polyester",3.03
+"men_underwearloungewear_loungewear","cotton",100.00
+"men_underwearloungewear_underwear","polyester",25.38
+"men_underwearloungewear_underwear","recycled polyester",23.08
+"men_underwearloungewear_underwear","acrylic",23.08
+"sportswear_men_activity_hiking","polypropylene",49.00
+"sportswear_men_activity_hiking_jacketsvests","polyester",48.07
+"sportswear_men_activity_hiking_jacketsvests","polyamide",27.37
+"sportswear_men_activity_hiking_jacketsvests","recycled polyester",13.17
+"sportswear_men_activity_hiking_trousersleggings","polyester",41.99
+"sportswear_men_activity_hiking_trousersleggings","polyamide",37.27
+"sportswear_men_activity_hiking_trousersleggings","recycled polyamide",15.03
+"sportswear_men_activity_racketsports","polyamide",50.00
+"sportswear_men_activity_racketsports","recycled polyamide",25.00
+"sportswear_men_activity_racketsports","polyester",25.00
+"sportswear_men_activity_running_accessories","recycled polyester",50.00
+"sportswear_men_activity_running_accessories","polyester",50.00
+"sportswear_men_activity_running_leggings","recycled polyester",44.44
+"sportswear_men_activity_running_leggings","polyester",43.89
+"sportswear_men_activity_running_leggings","elastane",11.67
+"sportswear_men_activity_running_shorts","polyester",67.31
+"sportswear_men_activity_running_shorts","recycled polyester",29.99
+"sportswear_men_activity_running_shorts","elastane",2.70
+"sportswear_men_activity_running_tops","polyester",47.34
+"sportswear_men_activity_running_tops","recycled polyester",47.19
+"sportswear_men_activity_running_tops","cotton",3.06
+"sportswear_men_activity_running_trousers","recycled polyester",50.00
+"sportswear_men_activity_running_trousers","polyester",50.00
+"sportswear_men_activity_skiing","polyester",35.98
+"sportswear_men_activity_skiing","recycled polyester",31.22
+"sportswear_men_activity_skiing","polyamide",9.66
+"sportswear_men_activity_training","polyester",37.46
+"sportswear_men_activity_training","recycled polyester",27.07
+"sportswear_men_activity_training","polyamide",17.01
+"sportswear_men_activity_training_hoodies","recycled polyester",41.77
+"sportswear_men_activity_training_hoodies","polyester",38.31
+"sportswear_men_activity_training_hoodies","cotton",13.03
+"sportswear_men_activity_training_shorts","polyester",53.92
+"sportswear_men_activity_training_shorts","recycled polyester",33.58
+"sportswear_men_activity_training_shorts","elastane",5.76
+"sportswear_men_activity_training_socks","recycled polyester",49.08
+"sportswear_men_activity_training_socks","polyester",48.88
+"sportswear_men_activity_training_socks","elastane",2.04
+"sportswear_men_activity_training_tops","polyester",41.14
+"sportswear_men_activity_training_tops","recycled polyester",37.35
+"sportswear_men_activity_training_tops","cotton",19.07
+"sportswear_men_activity_training_trousers","polyester",36.80
+"sportswear_men_activity_training_trousers","cotton",30.28
+"sportswear_men_activity_training_trousers","recycled polyester",20.53
+"sportswear_men_activity_watersports","recycled polyester",47.37
+"sportswear_men_activity_watersports","polyester",45.26
+"sportswear_men_activity_watersports","elastane",7.37
+"sportswear_men_clothing_hoodiessweatshirts","cotton",64.99
+"sportswear_men_clothing_hoodiessweatshirts","recycled polyester",17.63
+"sportswear_men_clothing_hoodiessweatshirts","polyester",17.25
+"sportswear_men_clothing_shorts","polyester",55.56
+"sportswear_men_clothing_shorts","recycled polyester",27.78
+"sportswear_men_clothing_shorts","polyamide",10.01
+"sportswear_men_clothing_socks","polyester",39.47
+"sportswear_men_clothing_socks","recycled polyester",37.73
+"sportswear_men_clothing_socks","cotton",20.94
+"sportswear_men_clothing_tops_longsleeve","wool",100.00
+"sportswear_men_clothing_tops_tshirts","recycled polyester",44.45
+"sportswear_men_clothing_tops_tshirts","polyester",44.37
+"sportswear_men_clothing_tops_tshirts","cotton",9.18
+"sportswear_men_clothing_tops_vest","recycled polyester",39.83
+"sportswear_men_clothing_tops_vest","polyester",39.74
+"sportswear_men_clothing_tops_vest","cotton",19.48
+"sportswear_men_outerwear_fleece","polyester",48.66
+"sportswear_men_outerwear_fleece","polyamide",29.43
+"sportswear_men_outerwear_fleece","recycled polyester",16.39
+"sportswear_men_outerwear_jackets","polyester",46.93
+"sportswear_men_outerwear_jackets","polyamide",20.94
+"sportswear_men_outerwear_jackets","recycled polyester",10.79
+"sportswear_men_outerwear_jackets_padded","polyester",48.09
+"sportswear_men_outerwear_jackets_padded","polyamide",24.21
+"sportswear_men_outerwear_jackets_padded","recycled polyester",14.01
+"sportswear_men_outerwear_vest","polyester",35.89
+"sportswear_men_outerwear_vest","polyamide",26.56
+"sportswear_men_outerwear_vest","recycled polyamide",17.83
+"sportswear_women_activity_hiking","recycled polyester",50.00
+"sportswear_women_activity_hiking","polyester",50.00
+"sportswear_women_activity_hiking_jacketvest","polyester",53.91
+"sportswear_women_activity_hiking_jacketvest","polyamide",17.81
+"sportswear_women_activity_hiking_jacketvest","recycled polyester",16.88
+"sportswear_women_activity_hiking_trousersleggings","polyamide",38.66
+"sportswear_women_activity_hiking_trousersleggings","polyester",32.75
+"sportswear_women_activity_hiking_trousersleggings","recycled polyester",13.43
+"sportswear_women_activity_racketsports","polyester",56.63
+"sportswear_women_activity_racketsports","recycled polyester",28.32
+"sportswear_women_activity_racketsports","elastane",15.05
+"sportswear_women_activity_running_accessories","polyester",52.00
+"sportswear_women_activity_running_accessories","polyamide",24.00
+"sportswear_women_activity_running_accessories","recycled polyester",20.00
+"sportswear_women_activity_running_bra","polyester",33.57
+"sportswear_women_activity_running_bra","polyamide",28.83
+"sportswear_women_activity_running_bra","recycled polyester",23.40
+"sportswear_women_activity_running_jacketsvest","polyester",43.98
+"sportswear_women_activity_running_jacketsvest","recycled polyester",30.35
+"sportswear_women_activity_running_jacketsvest","polyamide",14.54
+"sportswear_women_activity_running_leggings","polyester",29.68
+"sportswear_women_activity_running_leggings","recycled polyester",28.54
+"sportswear_women_activity_running_leggings","elastane",22.21
+"sportswear_women_activity_running_tops","polyester",34.62
+"sportswear_women_activity_running_tops","recycled polyester",31.41
+"sportswear_women_activity_running_tops","polyamide",14.43
+"sportswear_women_activity_running_trousers","polyester",40.44
+"sportswear_women_activity_running_trousers","recycled polyester",33.58
+"sportswear_women_activity_running_trousers","polyamide",16.08
+"sportswear_women_activity_skiing","polyester",54.71
+"sportswear_women_activity_skiing","polyamide",32.39
+"sportswear_women_activity_skiing","recycled polyester",6.94
+"sportswear_women_activity_training","polyester",27.94
+"sportswear_women_activity_training","polyamide",24.55
+"sportswear_women_activity_training","recycled polyester",24.45
+"sportswear_women_activity_training_accessories","polyester",77.71
+"sportswear_women_activity_training_accessories","recycled polyester",13.35
+"sportswear_women_activity_training_accessories","polyamide",3.56
+"sportswear_women_activity_training_bra","polyamide",49.91
+"sportswear_women_activity_training_bra","recycled polyamide",19.00
+"sportswear_women_activity_training_bra","polyester",11.97
+"sportswear_women_activity_training_hoodiessweaters","cotton",68.69
+"sportswear_women_activity_training_hoodiessweaters","organic cotton",20.00
+"sportswear_women_activity_training_hoodiessweaters","recycled polyester",6.21
+"sportswear_women_activity_training_jacketvest","recycled polyester",45.55
+"sportswear_women_activity_training_jacketvest","polyester",45.55
+"sportswear_women_activity_training_jacketvest","elastane",8.91
+"sportswear_women_activity_training_leggings","polyamide",26.35
+"sportswear_women_activity_training_leggings","recycled polyester",22.63
+"sportswear_women_activity_training_leggings","polyester",20.83
+"sportswear_women_activity_training_shorts","polyamide",26.44
+"sportswear_women_activity_training_shorts","polyester",24.76
+"sportswear_women_activity_training_shorts","recycled polyester",22.80
+"sportswear_women_activity_training_socks","recycled polyester",49.49
+"sportswear_women_activity_training_socks","polyester",49.49
+"sportswear_women_activity_training_socks","elastane",1.01
+"sportswear_women_activity_training_tops","polyester",42.65
+"sportswear_women_activity_training_tops","recycled polyester",35.26
+"sportswear_women_activity_training_tops","elastane",9.04
+"sportswear_women_activity_watersports","polyester",71.54
+"sportswear_women_activity_watersports","recycled polyester",18.70
+"sportswear_women_activity_watersports","elastane",9.76
+"sportswear_women_activity_yoga","polyester",52.97
+"sportswear_women_activity_yoga","recycled polyester",25.30
+"sportswear_women_activity_yoga","acrylic",14.52
+"sportswear_women_activity_yoga_bras","polyamide",34.11
+"sportswear_women_activity_yoga_bras","polyester",34.06
+"sportswear_women_activity_yoga_bras","recycled polyester",17.51
+"sportswear_women_activity_yoga_leggings","polyester",33.04
+"sportswear_women_activity_yoga_leggings","recycled polyester",32.00
+"sportswear_women_activity_yoga_leggings","polyamide",19.27
+"sportswear_women_activity_yoga_tops","polyester",43.52
+"sportswear_women_activity_yoga_tops","recycled polyester",37.64
+"sportswear_women_activity_yoga_tops","cotton",13.61
+"sportswear_women_clothing_leggingstights_highwaist","polyester",37.90
+"sportswear_women_clothing_leggingstights_highwaist","recycled polyester",37.32
+"sportswear_women_clothing_leggingstights_highwaist","elastane",12.78
+"sportswear_women_clothing_shortsskirts_biker","polyamide",29.59
+"sportswear_women_clothing_shortsskirts_biker","polyester",26.14
+"sportswear_women_clothing_shortsskirts_biker","recycled polyester",23.53
+"sportswear_women_clothing_shortsskirts_skirts","polyester",48.96
+"sportswear_women_clothing_shortsskirts_skirts","recycled polyester",32.27
+"sportswear_women_clothing_shortsskirts_skirts","elastane",15.88
+"sportswear_women_clothing_socks","cotton",61.25
+"sportswear_women_clothing_socks","recycled polyester",18.70
+"sportswear_women_clothing_socks","polyester",17.62
+"sportswear_women_clothing_sportbra_high","polyester",70.43
+"sportswear_women_clothing_sportbra_high","recycled polyester",21.65
+"sportswear_women_clothing_sportbra_high","elastane",7.83
+"sportswear_women_clothing_sportbra_light","polyester",35.90
+"sportswear_women_clothing_sportbra_light","polyamide",26.49
+"sportswear_women_clothing_sportbra_light","recycled polyester",25.36
+"sportswear_women_clothing_sportbra_medium","polyester",44.06
+"sportswear_women_clothing_sportbra_medium","polyamide",20.78
+"sportswear_women_clothing_sportbra_medium","elastane",16.04
+"sportswear_women_clothing_tops_crop","polyester",54.47
+"sportswear_women_clothing_tops_crop","recycled polyester",31.64
+"sportswear_women_clothing_tops_crop","elastane",13.89
+"sportswear_women_clothing_tops_longsleeve","polyester",38.38
+"sportswear_women_clothing_tops_longsleeve","recycled polyester",26.17
+"sportswear_women_clothing_tops_longsleeve","polyamide",23.63
+"sportswear_women_clothing_tops_tanks","modal",97.00
+"sportswear_women_clothing_tops_tanks","elastane",3.00
+"sportswear_women_clothing_tops_tshirts","recycled polyester",27.78
+"sportswear_women_clothing_tops_tshirts","polyester",27.78
+"sportswear_women_clothing_tops_tshirts","modal",16.17
+"sportswear_women_outerwear_fleece","recycled polyester",50.00
+"sportswear_women_outerwear_fleece","polyester",50.00
+"sportswear_women_outerwear_jackets_anorak","polyester",43.28
+"sportswear_women_outerwear_jackets_anorak","recycled polyester",27.17
+"sportswear_women_outerwear_jackets_anorak","polyamide",22.57
+"sportswear_women_outerwear_jackets_padded","polyester",40.75
+"sportswear_women_outerwear_jackets_padded","polyamide",17.41
+"sportswear_women_outerwear_jackets_padded","recycled polyester",14.79
+"sportswear_women_outerwear_jackets_rain","polyamide",50.51
+"sportswear_women_outerwear_jackets_rain","recycled polyamide",49.49
+"sportswear_women_outerwear_jackets_shell","polyester",52.08
+"sportswear_women_outerwear_jackets_shell","recycled polyester",47.92
+"sportswear_women_outerwear_vest","polyester",75.00
+"sportswear_women_outerwear_vest","recycled polyester",25.00
